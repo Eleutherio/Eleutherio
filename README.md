@@ -7,18 +7,19 @@
 
 ## Um pouco sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas pela Unisinos - Porto Alegre, com conclusão prevista para o 1º semestre de 2028. Busco uma oportunidade de estágio como desenvolvedor de software onde eu possa contribuir com idéias, desenvolver habilidades técnicas com profissionais experiêntes e criar laços profissionais duradouros. Possuo interesse em atuar na inclusão digital e otimização de produtos digitais.
+27 anos, estudante de Análise e Desenvolvimento de Sistemas pela Unisinos - Porto Alegre, com conclusão prevista para o 1º semestre de 2028. 
+
+Ex-participante do Programa Oracle Next Education, 2023.
 
  ![Eleutherio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eleutherio&show_icons=true&theme=slateorange&hide_title=true&hide_rank=true )
 
   ### Objetivos atuais de carreira
-- Buco estagiar na área de tecnologia e desenvolvimento de software, observando manter um longo
-período de vínculo
+- Busco estagiar na área de tecnologia e desenvolvimento de software, observando crescimento profissional;
 
 - Utilizar desse momento de aprendizado para ampliar meus conhecimentos técnicos em relação as outras áreas
-do desenvolvimento de software (Ex: DataOps, DevOps, Backend, etc...)
+do desenvolvimento de software (Ex: DataOps, DevOps, Backend, etc...);
 
-- Contribuir em desafios reais do mercado
+- Contribuir em desafios e necessidades reais
 #
 
 ## Portifólio Técnico
@@ -57,14 +58,14 @@ Atualmente em formação e aprofundando habilidades por meio de projeto com foco
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eleutherio&repo=Abriuchaveiro&theme=slateorange)](https://github.com/Eleutherio/Abriuchaveiro)
 
-Projeto Pessoal (Em desenvolvimento). O website foi pensado como um produto digital da marca Abriuchaveiro, onde conta com uma landing page, pagina de serviços, formulário de contato, integração com Google Maps, menu responsivo em mobile e um blog.
+Projeto Pessoal (Em desenvolvimento). O website foi pensado como um produto digital da marca Abriuchaveiro, onde conta com uma landing page, pagina de serviços, formulário de contato, integração com Google Maps, menu responsivo em mobile e uma seção de FAQ para o cliente.
 
 O foco desse projeto é criar uma aplicação web completa, com visão de negócio e estrutura sólida.
 
   Front-end:
   - HTML, CSS: estrutura e estilização responsiva do website.
-  - Javascript: para validações e lógica de interação no formulário.
-  - Fetch API: envio assíncrono dos dados para o backend em Flask.
+  - Javascript: para validações, lógica de interação no formulário e manipulação dinâmica e estilização do website.
+  - Fetch API: envio assíncrono dos dados para o backend (possivelmente em Flask).
 
   Back-end (em desenvolvimento):
   - Python + Flask: criação da API para recebimento e armazenamento dos pedidos.
