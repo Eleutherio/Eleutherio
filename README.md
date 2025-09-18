@@ -45,13 +45,12 @@ Atualmente em formação e aprofundando habilidades por meio de projeto com foco
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white )
 ![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-7F52FF?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white )
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
 ![HTML5](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
 ![CSS](https://img.shields.io/badge/CSS-663399?logo=css3)
+![Boostrap]([https://img.shields.io/badge/Bootstrap](https://img.shields.io/badge/Bootstrap-663399?logo=bootstrap))
 </div>
 
 ### Projeto Destacado:
