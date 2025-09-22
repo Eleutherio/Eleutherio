@@ -5,40 +5,15 @@
   <a href = "mailto:eleutherio.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eleutherio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Um pouco sobre mim
+  ### Sobre mim:
 
-27 anos, estudante de Análise e Desenvolvimento de Sistemas pela Unisinos - Porto Alegre, com conclusão prevista para o 1º semestre de 2028. 
+Estudante de Análise e Desenvolvimento de Sistemas pela Unisinos - Porto Alegre, com conclusão prevista para o 1º semestre de 2028;
 
-Ex-participante do Programa Oracle Next Education, 2023.
+Residente em TI;
+
+Alumni Oracle Next Education, 2023.
 
  ![Eleutherio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eleutherio&show_icons=true&theme=slateorange&hide_title=true&hide_rank=true )
-
-  ### Objetivos atuais de carreira
-- Busco estagiar na área de tecnologia e desenvolvimento de software, observando crescimento profissional;
-
-- Utilizar desse momento de aprendizado para ampliar meus conhecimentos técnicos em relação as outras áreas
-do desenvolvimento de software (Ex: DataOps, DevOps, Backend, etc...);
-
-- Contribuir em desafios e necessidades reais
-#
-
-## Portifólio Técnico
-
-### Conhecimentos em Desenvolvimento de Software
-
-Atualmente em formação e aprofundando habilidades por meio de projeto com foco em valor real e boas práticas. Estas são algumas áreas que já aplico e sigo evoluindo:
-
-  - APIs RESTful: Envio e recebimento de dados via fetch entre front-end em JS e back-end; manipulação de requisições e respostas HTTP.
-
-  - POO (Programação Orientada a Objetos): Uso de classes, métodos e modelagem de dados em Python e Java, com foco em código reutilizável e organizado.
-
-  - Estruturas de Dados: Aplicação de listas, dicionários e tuplas em contextos reais; explorando pilhas, filas e estruturas mais avançadas.
-
-  - Arquitetura em Camadas: Separação progressiva entre apresentação (HTML/CSS/JS), lógica de controle e persistência.
-
-  - Clean Code: Prática de legibilidade do código, nomes significativos respeitando convensões da linguagem e modularização do código; foco na clareza e manutenção.
-
-  - Metodologias Ágeis (Scrum): Familiaridade com organização por sprints, tarefas visuais e ciclos de entrega contínua em projetos pessoais.
 
 ### Domínio de Tecnologias:
 <div style="display: inline_block"><br>
