@@ -9,7 +9,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas pela Unisinos - Porto Alegre, com conclusão prevista para o 1º semestre de 2028;
 
-Residente em TI;
+Residente em Tecnologia e Comunicação (TIC55): Softex, BRISA, Unisinos e Ministério de Gestão e Inovação (MCTI/Gov);
 
 Alumni Oracle Next Education, 2023.
 
