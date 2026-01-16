@@ -35,8 +35,8 @@ Alumni Oracle Next Education, 2023.
 
 </div>
 
-### Projeto Destacado: Reviso — Gestão de Demandas Criativas (B2B)
-  
+### Projeto Destacado:
+
 [![Readme Card](https://github-readme-stats-drab-psi-76.vercel.app/api/pin?username=Eleutherio&repo=reviso-gestao-demandas&theme=dark&cache_seconds=86400)](https://github.com/Eleutherio/reviso-gestao-demandas)
 
 Projeto pessoal (em desenvolvimento). O Reviso é uma plataforma B2B para gestão de demandas criativas em agências, centralizando o ciclo de vida do pedido: Briefing → Request → Workflow → eventos/histórico, com controle de acesso por perfil e estrutura preparada para múltiplas empresas.
