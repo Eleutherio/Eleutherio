@@ -9,7 +9,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas pela Unisinos - Porto Alegre, com conclusão prevista para o 1º semestre de 2028;
 
-Residente em Tecnologia e Comunicação (TIC55): Softex, BRISA, Unisinos e Ministério de Gestão e Inovação (MCTI/Gov);
+Residente em Tecnologia e Comunicação (TIC55): Softex, BRISA, Unisinos e Ministério de Gestão e Inovação (MCTI/Gov) até 03/2026;
 
 Alumni Oracle Next Education, 2023.
 
@@ -20,33 +20,46 @@ Alumni Oracle Next Education, 2023.
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white )
 ![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Springboot](https://img.shields.io/badge/springboot-0F172A?&logo=springboot)
+![Angular](https://img.shields.io/badge/angular-0F172A?&logo=angular)
+![React](https://img.shields.io/badge/react-0F172A?&logo=react)
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/bootstrap-0F172A?&logo=bootstrap)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white )
-![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
-![HTML5](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
-![CSS](https://img.shields.io/badge/CSS-663399?logo=css3)
-![Bootsrap](https://img.shields.io/badge/Bootstrap-663399?logo=bootstrap)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-### Projeto Destacado:
+### Projeto Destacado: Reviso — Gestão de Demandas Criativas (B2B)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eleutherio&repo=Abriuchaveiro&theme=slateorange)](https://github.com/Eleutherio/Abriuchaveiro)
+  [![Readme Card]()](https://github.com/Eleutherio/reviso-gestao-demandas)
 
-Projeto Pessoal (Em desenvolvimento). O website foi pensado como um produto digital da marca Abriuchaveiro, onde conta com uma landing page, pagina de serviços, formulário de contato, integração com Google Maps, menu responsivo em mobile e uma seção de FAQ para o cliente.
+Projeto pessoal (em desenvolvimento). O Reviso é uma plataforma B2B para gestão de demandas criativas em agências, centralizando o ciclo de vida do pedido: Briefing → Request → Workflow → eventos/histórico, com controle de acesso por perfil e estrutura preparada para múltiplas empresas.
 
-O foco desse projeto é criar uma aplicação web completa, com visão de negócio e estrutura sólida.
+O foco do projeto é aplicar práticas de mercado em um produto realista: autenticação, RBAC, organização de domínio, API REST, filtros avançados e arquitetura limpa, com front moderno e backend robusto.
 
-  Front-end:
-  - HTML, CSS: estrutura e estilização responsiva do website.
-  - Javascript: para validações, lógica de interação no formulário e manipulação dinâmica e estilização do website.
-  - Fetch API: envio assíncrono dos dados para o backend (possivelmente em Flask).
+Backend
 
-  Back-end (em desenvolvimento):
-  - Python + Flask: criação da API para recebimento e armazenamento dos pedidos.
-  - Flask-SQLAlchemy: ORM para integração com SQLite e manipulação segura dos dados.
-  - Flask-WTF (futuro): para validações mais robustas de formulário.
+Java 21 + Spring Boot: API REST com estrutura modular.
+Spring Security + JWT: autenticação e autorização.
+RBAC: perfis e permissões por papel (ex.: Admin/Agency/Client).
+PostgreSQL + Flyway: persistência e versionamento de schema.
+Spring Data JPA + Specifications: consultas e filtros combinados.
+Testes: JUnit 5 + Mockito (base para cobertura de regras).
 
+Frontend
+
+Angular 17+ + TypeScript: SPA com App Shell e navegação por portais.
+Guards + Interceptor: proteção de rotas e injeção automática do token.
+Angular Material + SCSS: UI consistente e responsiva.
+Infra / Qualidade
+Docker/Compose: ambiente local (DB + API).
+Deploy: planejado em serviços como Render/Vercel.
+Boas práticas: validações, tratamento de erros, documentação e padrões de commit/branches.
 
 
 
