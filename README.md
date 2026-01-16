@@ -13,7 +13,8 @@ Residente em Tecnologia e Comunicação (TIC55): Softex, BRISA, Unisinos e Minis
 
 Alumni Oracle Next Education, 2023.
 
- ![Eleutherio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eleutherio&show_icons=true&theme=slateorange&hide_title=true&hide_rank=true )
+![Eleutherio's GitHub stats](https://github-readme-stats-drab-psi-76.vercel.app/api?username=Eleutherio&show_icons=true&hide_title=true&hide_rank=true&cache_seconds=86400)
+
 
 ### Domínio de Tecnologias:
 <div style="display: inline_block"><br>
@@ -36,7 +37,7 @@ Alumni Oracle Next Education, 2023.
 
 ### Projeto Destacado: Reviso — Gestão de Demandas Criativas (B2B)
   
-  [![Readme Card]()](https://github.com/Eleutherio/reviso-gestao-demandas)
+[![Readme Card](https://github-readme-stats-drab-psi-76.vercel.app/api/pin?username=Eleutherio&repo=reviso-gestao-demandas&theme=dark&cache_seconds=86400)](https://github.com/Eleutherio/reviso-gestao-demandas)
 
 Projeto pessoal (em desenvolvimento). O Reviso é uma plataforma B2B para gestão de demandas criativas em agências, centralizando o ciclo de vida do pedido: Briefing → Request → Workflow → eventos/histórico, com controle de acesso por perfil e estrutura preparada para múltiplas empresas.
 
