@@ -1,66 +1,78 @@
-# Olá, sou o Guilherme. Seja bem-vindo(a)!
+<h1 align="center">Guilherme Ferreira Eleuthério</h1>
 
-<div> 
-  <a href="https://instagram.com/httpsdoisponto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eleutherio.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eleutherio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=005CA9&center=true&vCenter=true&width=1050&lines=Graduando+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+%40+Unisinos;Participante+do+Santander+Jornada+Tech+AWS+-+2026;Ex-residente+em+Tecnologia+e+Comunica%C3%A7%C3%A3o+(TIC55)+%7C+Brisa+%26+Unisinos+%7C+2025;Alumni+Oracle+Next+Education%2C+2023" alt="Typing SVG" />
+</p>
 
-  ### Sobre mim:
+<p align="center">
+  Full Stack | Java | React | PostgreSQL
+</p>
 
-Estudante de Análise e Desenvolvimento de Sistemas pela Unisinos - Porto Alegre, com conclusão prevista para o 1º semestre de 2028;
+> Estudante de ADS e participante do Santander Jornada Tech AWS 2026, em busca de uma oportunidade de estágio para desenvolver minhas habilidades e contribuir com projetos reais.
 
-Residente em Tecnologia e Comunicação (TIC55): Softex, BRISA, Unisinos e Ministério de Gestão e Inovação (MCTI/Gov) até 03/2026;
+<p align="center">
+  <a href="https://www.linkedin.com/in/Eleutherio">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contato@guifer.tech">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Eleutherio">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Alumni Oracle Next Education, 2023.
+---
 
-![Eleutherio's GitHub stats](https://github-readme-stats-drab-psi-76.vercel.app/api?username=Eleutherio&show_icons=true&hide_title=true&hide_rank=true&cache_seconds=86400)
+<details>
+  <summary><strong>Sobre mim</strong></summary>
 
+  <br>
 
-### Domínio de Tecnologias:
-<div style="display: inline_block"><br>
- 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white )
-![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <img
+    align="right"
+    width="340"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eleutherio&layout=compact&theme=transparent&locale=pt-br"
+    alt="Linguagens mais usadas"
+  />
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+  Oi! Eu sou Guilherme F. Eleuthério, também conhecido como @Guifer. 👋😄
 
-![Springboot](https://img.shields.io/badge/springboot-0F172A?&logo=springboot)
-![Angular](https://img.shields.io/badge/angular-0F172A?&logo=angular)
-![React](https://img.shields.io/badge/react-0F172A?&logo=react)
-![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/bootstrap-0F172A?&logo=bootstrap)
+Sou Desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas na Unisinos. Curioso desde criança, gosto de aprender sobre hardware, software e transformar minhas ideias em projetos concretos, evoluindo por meio de trabalho prático, colaboração e estudo contínuo.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white )
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+Minha experiência envolve o desenvolvimento completo de software, documentação do produto, análise de requisitos com o cliente, trabalho em equipe com metodologia ágil. Já atuei em projetos com Java, Spring Boot, React, Django, PostgreSQL e Docker, sempre buscando aprender com o time e contribuir com o meu melhor.
 
-</div>
+Possuo interesse em desenvolvimento com time colaborativo e participativo, arquitetura de software e construção de produtos digitais. Possuo visão orientada a resultados e foco na experiência do usuário, também gosto de participar do processo de criação de  soluções desde a concepção, conectando necessidade de negócio, estruturação técnica e implementação.
 
-### Projeto Destacado:
+  <br clear="right" />
+</details>
 
-[![Readme Card](https://github-readme-stats-drab-psi-76.vercel.app/api/pin?username=Eleutherio&repo=reviso-gestao-demandas&theme=dark&cache_seconds=86400)](https://github.com/Eleutherio/reviso-gestao-demandas)
+---
 
-Projeto pessoal (em desenvolvimento). O Reviso é uma plataforma B2B para gestão de demandas criativas em agências, centralizando o ciclo de vida do pedido: Briefing → Request → Workflow → eventos/histórico, com controle de acesso por perfil e estrutura preparada para múltiplas empresas.
+### Projetos em destaque
 
-O foco do projeto é aplicar práticas de mercado em um produto realista: autenticação, RBAC, organização de domínio, API REST, filtros avançados e arquitetura limpa, com front moderno e backend robusto.
+- **Abriu Chaveiro** — Website institucional de chaveiro em Porto Alegre
+- **Reviso** — sistema de gestão de demandas criativas para agências de publicidade
+- **GrenGame** — plataforma LMS gamificada de treinamentos corporativos
 
-Backend
+### Tecnologias
 
-Java 21 + Spring Boot: API REST com estrutura modular.
-Spring Security + JWT: autenticação e autorização.
-RBAC: perfis e permissões por papel (ex.: Admin/Agency/Client).
-PostgreSQL + Flyway: persistência e versionamento de schema.
-Spring Data JPA + Specifications: consultas e filtros combinados.
-Testes: JUnit 5 + Mockito (base para cobertura de regras).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-Frontend
+---
 
-Angular 17+ + TypeScript: SPA com App Shell e navegação por portais.
-Guards + Interceptor: proteção de rotas e injeção automática do token.
-Angular Material + SCSS: UI consistente e responsiva.
-Infra / Qualidade
-Docker/Compose: ambiente local (DB + API).
-Deploy: planejado em serviços como Render/Vercel.
-Boas práticas: validações, tratamento de erros, documentação e padrões de commit/branches.
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin">LinkedIn</a> •
+  <a href="mailto:contato@guifer.tech">Email</a> •
+  <a href="https://guifer.tech">Portfólio</a>
+</p>
+
 
 
 
